@@ -1,0 +1,59 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Pro6_64010683.Main",
+            "projectName": "wk_9_2_3c0cb39",
+            "vmArgs": "--module-path \"C:/JavaFX/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Pro5_64010683.Main",
+            "projectName": "wk_9_2_3c0cb39",
+            "vmArgs": "--module-path \"C:/JavaFX/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Pro4_64010683.Main",
+            "projectName": "wk_9_2_3c0cb39",
+            "vmArgs": "--module-path \"C:/JavaFX/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Pro3_64010683.Main",
+            "projectName": "wk_9_2_3c0cb39",
+            "vmArgs": "--module-path \"C:/JavaFX/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Pro2_64010683.Main",
+            "projectName": "wk_9_2_3c0cb39",
+            "vmArgs": "--module-path \"C:/JavaFX/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Pro1_64010683.Main",
+            "projectName": "wk_9_2_3c0cb39",
+            "vmArgs": "--module-path \"C:/JavaFX/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

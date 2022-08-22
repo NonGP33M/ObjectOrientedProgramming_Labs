@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Pro3_4f4a0d",
+            "vmArgs": "--module-path \"C:/JavaFX/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml,javafx.media"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "wk_11_9d0636f3",
+            "vmArgs": "--module-path \"C:/JavaFX/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "--module-path \"C:/JavaFX/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "vmArgs": "--module-path \"C:/JavaFX/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
